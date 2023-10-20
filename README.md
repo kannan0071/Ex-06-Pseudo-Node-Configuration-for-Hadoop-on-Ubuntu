@@ -18,20 +18,20 @@ Single-Node Configuration
 
 ![image](https://github.com/kannan0071/Ex-06-Pseudo-Node-Configuration-for-Hadoop-on-Ubuntu/assets/119641638/cab30b09-b8d2-4a97-a0d6-ada83090b5f7)
 
-4.	Install Hadoop
+3.	Install Hadoop
 
 ![image](https://github.com/kannan0071/Ex-06-Pseudo-Node-Configuration-for-Hadoop-on-Ubuntu/assets/119641638/f9ccc9f9-edc3-486e-a5c2-60a8e977a884)
 
-6.	Set the hadoop environment variables: Include the following lines in the
+4.	Set the hadoop environment variables: Include the following lines in the
 $HOME/.bashrc file
 
 ![image](https://github.com/kannan0071/Ex-06-Pseudo-Node-Configuration-for-Hadoop-on-Ubuntu/assets/119641638/4f93c6e4-24ee-4cf7-8d5a-b2bde32a1db0)
  
-7.	Set hadoop environment variables: Include the following lines /etc/profile file
+5.	Set hadoop environment variables: Include the following lines /etc/profile file
 
 ![image](https://github.com/kannan0071/Ex-06-Pseudo-Node-Configuration-for-Hadoop-on-Ubuntu/assets/119641638/84eb271b-8d1d-4cb3-a000-c509915e97be)
 
-8.	Run the.bashrc & profile files from the $ prompt for updating the changes
+6.	Run the.bashrc & profile files from the $ prompt for updating the changes
 
 ![image](https://github.com/kannan0071/Ex-06-Pseudo-Node-Configuration-for-Hadoop-on-Ubuntu/assets/119641638/78e76b27-5596-41dd-8e3e-1da4d1924860)
 
@@ -98,11 +98,11 @@ Explore Hadoop using http://localhost:50070/ from the browser
 
 ![image](https://github.com/kannan0071/Ex-06-Pseudo-Node-Configuration-for-Hadoop-on-Ubuntu/assets/119641638/2a85102d-a4c8-4e34-ad13-000c08e96d41)
 
-14.	Run some of the examples provided
+13.	Run some of the examples provided
 
 ![image](https://github.com/kannan0071/Ex-06-Pseudo-Node-Configuration-for-Hadoop-on-Ubuntu/assets/119641638/80aecacc-8761-4978-9ca8-a1184547f488)
 
-15.	Examine the output files
+14.	Examine the output files
 
 Copy the output files from the distributed file system to the local file system and examine them:
 
